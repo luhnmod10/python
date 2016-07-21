@@ -1,0 +1,4 @@
+build/
+dist/
+luhnmod10.egg-info/
+*.pyc
